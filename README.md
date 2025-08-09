@@ -1,11 +1,4 @@
-Got it ✅ — here’s a single **`README.md`** file with **features and emojis** included:
-
----
-
-````markdown
-# 🐍 Python List Operations
-
-This project demonstrates basic **list operations** in Python.  
+This assignment demonstrates basic **list operations** in Python.  
 You will learn how to:
 - 🆕 Create a list
 - ➕ Append values
@@ -67,4 +60,5 @@ print(index_of_30)  # Output: 3
 ```
 3
 ```
+
 
