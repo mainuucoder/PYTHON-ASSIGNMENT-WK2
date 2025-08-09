@@ -68,15 +68,3 @@ print(index_of_30)  # Output: 3
 3
 ```
 
----
-
-**👨‍🏫 Author:** Mainuu
-**💻 Language:** Python 3
-**📅 Created:** 2025
-
-```
-
----
-
-If you want, I can also **add colorful Markdown badges** for Python version, difficulty, and status so it looks more professional like a GitHub project page. Would you like me to do that?
-```
