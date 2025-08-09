@@ -1,7 +1,6 @@
 #Q1. empty list called my_list
 my_list = []
 
-
 #Q2. appending values to my_list
 my_list.append(10)
 my_list.append(20)
